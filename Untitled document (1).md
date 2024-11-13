@@ -12,8 +12,7 @@
 \- **Network logs**\- a file that contains a record of events that occurred in the application. It contains the record of user and process access calls to objects, attempts at authentication, and other activity.
 
 \- **Metadata**\- Metadata summarizes basic information about data, making finding and working with particular instances of data easier.ex:a book – the data is the content of the book itself, while the metadata is the title, format, publication date, author and the book’s subject.
-
-         Data sources  
+ Data Sources 
 \- **Vulnerability scans**\- Vulnerability scans are scans that look for weaknesses or vulnerabilities in systems, network, and software.
 
 \- **Automated reports**\- automated reports is a tool that businesses use to share or sometimes produce  information to employees or customers and.
